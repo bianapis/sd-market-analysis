@@ -1,0 +1,13 @@
+{
+  "marketAnalysisAlgorithmImpact" : {},
+  "marketAnalysisAlgorithmReference" : "ALG987",
+  "marketAnalysisRequestReference" : "MA123",
+  "marketAnalysisAlgorithmType" : "genetic",
+  "marketResearchSourceReference" : "MRS2399",
+  "marketAnalysisAlgorithmSpecification" : {},
+  "marketAnalysisAlgorithmUsage" : {},
+  "marketAnalysisAlgorithm" : {},
+  "marketAnalysisAlgorithmUsageGuidelines" : "example guidelines",
+  "productServiceActivityReportReference" : "SAR5823",
+  "marketAnalysisAlgorithmFeedbackRecord" : {}
+}

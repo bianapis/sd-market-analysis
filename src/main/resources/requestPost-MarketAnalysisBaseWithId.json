@@ -1,0 +1,9 @@
+{
+  "marketAnalysisRequestPlan" : {},
+  "marketAnalysisReport" : {},
+  "employeeBusinessUnitReference" : "EBU1234",
+  "marketAnalysisAlgorithmReference" : "ALG987",
+  "marketAnalysisRequestReference" : "MA123",
+  "marketAnalysisReportReference" : "MAR378",
+  "marketAnalysisRequest" : {}
+}
